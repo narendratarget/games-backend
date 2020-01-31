@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: games-backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NA396446
+Implementation-Vendor-Id: com.games
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/games-backend
+Created-By: Maven Integration for Eclipse
+
